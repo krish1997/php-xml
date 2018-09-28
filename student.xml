@@ -1,0 +1,30 @@
+<?xml  version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="./styling.css" type="text/css"?>
+<students>
+	<student>
+		<Uid>4vv15cs012</Uid>
+		<sname>Abc</sname>
+		
+		<email>aaa@gmail.com</email>
+		<college>vvce</college>
+		<yoj>2016</yoj>
+		<sem>7th</sem>
+	</student>
+	<student>
+		<Uid>4vv15cs01</Uid>
+		<sname>Abc</sname>
+		<email>aaa@gmail.com</email>
+		<college>vvce</college>
+		<yoj>2016</yoj>
+		<sem>7th</sem>
+	</student>
+	<student>
+		<Uid>4vv15cs02</Uid>
+		<sname>Abc</sname>
+		<email>aaa@gmail.com</email>
+		<college>vvce</college>
+		<yoj>2016</yoj>
+		<sem>7th</sem>
+	</student>
+</students>
+
